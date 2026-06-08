@@ -39,3 +39,4 @@ FROM
 	access_to_basic_services
 WHERE
 	Time_period = 2020;
+		access_to_basic_services
